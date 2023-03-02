@@ -1,11 +1,12 @@
-### Olá, meu nome é Elias, e sou estudante de Ciência da Computação. <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30" >
+### Olá, meu nome é Elias <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30" >
+Sou estudante de Ciência da Computação =)
 
 ####  Meus aprendizados atuais
 
 📲 Front-end Mobile com React Native  
-📡 Back-end with Nodejs  
-🛠️ Typescript, Styled Components 
-🧰 And more...  
+📡 Back-end com Nodejs  
+🛠️ JavaScript, Typescript e Styled Components 
+
 
 #### 💬 Me encontre em..
 
